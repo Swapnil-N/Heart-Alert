@@ -22,4 +22,5 @@
             android:text="@string/hello_world" />
 
     </FrameLayout>
+
 </android.support.wear.widget.BoxInsetLayout>
